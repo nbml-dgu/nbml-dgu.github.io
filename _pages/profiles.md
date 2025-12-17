@@ -9,7 +9,7 @@ nav_order: 7
 profiles:
   - align: right
     image: prof_pic.jpg
-    content: member_Kim Tae Ho.md
+    content: member_Kim_Tae_Ho.md
     image_circular: false
     more_info: >
       <p>555 your office number</p>
@@ -18,7 +18,7 @@ profiles:
 
   - align: left
     image: prof_pic.jpg
-    content: member_Oh Serim.md
+    content: member_Oh_Serim.md
     image_circular: false
     more_info: >
       <p>555 your office number</p>
@@ -27,7 +27,7 @@ profiles:
 
   - align: right
     image: prof_pic_3.jpg
-    content: member_Kang Yoon.md
+    content: member_Kang_Yoon.md
     image_circular: false
     more_info: >
       <p>Office: 301</p>
@@ -35,7 +35,7 @@ profiles:
 
   - align: left
     image: prof_pic_4.jpg
-    content: member_Kim Jason.md
+    content: member_Kim_Jason.md
     image_circular: false
     more_info: >
       <p>Office: 302</p>
