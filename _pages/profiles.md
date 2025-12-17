@@ -12,32 +12,30 @@ profiles:
     content: member_Kim_Tae_Ho.md
     image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Office: 101</p>
+      <p>Email: taeho@univ.ac.kr</p>
 
   - align: left
     image: prof_pic.jpg
     content: member_Oh_Serim.md
     image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Office: 102</p>
+      <p>Email: serim@univ.ac.kr</p>
 
   - align: right
-    image: prof_pic_3.jpg
+    image: prof_pic.jpg
     content: member_Kang_Yoon.md
     image_circular: false
     more_info: >
-      <p>Office: 301</p>
-      <p>Email: member3@example.com</p>
+      <p>Office: 103</p>
+      <p>Email: yoon@univ.ac.kr</p>
 
   - align: left
-    image: prof_pic_4.jpg
+    image: prof_pic.jpg
     content: member_Kim_Jason.md
     image_circular: false
     more_info: >
-      <p>Office: 302</p>
-      <p>Email: member4@example.com</p>
+      <p>Office: 104</p>
+      <p>Email: jason@univ.ac.kr</p>
 ---
