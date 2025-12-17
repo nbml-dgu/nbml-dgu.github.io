@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nbml.github.io/al-folio/sitemap.xml
+Sitemap: https://nbml.github.io/sitemap.xml
