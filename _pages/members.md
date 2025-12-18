@@ -29,7 +29,6 @@ nav_order: 3
     <p>Research Professor</p>
     <p>Dept. of Energy & Materials Engineering</p>
     <p>📧 mani.ramumala@gmail.com</p>
-    <a href="/cv/">[View CV]</a>
   </div>
 </div>
 
