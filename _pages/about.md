@@ -90,4 +90,11 @@ NBML은 열정 있는 학부 연구생 및 대학원생을 언제나 환영합�
     background-color: #f9f9f9 !important;      /* 인용구 배경색 */
     color: #555 !important;
   }
+  
+  body {
+    /* 아주 작은 회색 점들이 찍힌 패턴 */
+    background-color: #ffffff;
+    background-image: radial-gradient(#e5e5f7 1px, transparent 1px);
+    background-size: 20px 20px; /* 점 간격 조절 */
+  }
 </style>
