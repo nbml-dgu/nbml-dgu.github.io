@@ -6,14 +6,8 @@ subtitle: 동국대학교 나노바이오물질연구실 (Nano-Bio Materials Lab
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jaemin.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>교수님 연구실: 신공학관 10104호
-    <p>연구실: 신공학관 1127호, 1170호
-    <p>교수님 이메일: jmoh.nbml@gmail.com / jaemin.oh@dongguk.edu
-    <p>대학원생 컨택: taeho0408@naver.com
-    <p>Seoul, Republic of Korea
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
