@@ -23,13 +23,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-# Welcome to NBML 👋
+# Welcome to NBML
 
 **동국대학교 나노바이오물질연구실 (Nano Bio Material Laboratory)** 홈페이지에 오신 것을 환영합니다.
 
 저희 연구실은 **오제민 교수님**의 지도 하에 무기화학을 기반으로 한 **기능성 나노 소재**의 합성과 응용을 연구하고 있습니다. 특히 2차원 층상 구조체인 **LDH (Layered Double Hydroxide)**를 핵심 소재로 활용하여 바이오 의약 전달 시스템부터 차세대 에너지 저장 장치까지 폭넓은 융합 연구를 수행합니다.
 
-## 🔬 Research Interests
+## Research Interests
 
 저희는 크게 **바이오(Bio)**와 **에너지(Energy)** 두 가지 축을 중심으로 연구를 진행합니다.
 
@@ -42,18 +42,18 @@ latest_posts:
 * **이차전지 분리막 개발:** 차세대 이차전지의 분리막 및 전해질 응용 연구
 * **환경 촉매:** 수계 및 대기 오염 정화 및 유해 물질 흡착을 위한 친환경 나노 흡착제 개발.
 
-## 🧪 Lab Life
+## Lab Life
 
 NBML은 연구에 집중하면서도 자유롭고 수평적인 분위기를 지향합니다.
 
-* **🤝 Collaborative Environment:** 선후배 간의 자유로운 디스커션과 협업을 장려합니다.
-* **🏝 Work-Life Balance:** 효율적인 연구 시간 관리와 개인 시간을 존중합니다.
-* **✈️ Conferences:** 국내외 학술대회 참가를 적극 지원하여 다양한 연구 경험을 제공합니다.
-* **🎉 Events:** 정기적인 랩 세미나, 홈커밍데이, 워크숍 등을 통해 구성원 간의 유대감을 다집니다.
+* ** Collaborative Environment:** 선후배 간의 자유로운 디스커션과 협업을 장려합니다.
+* ** Work-Life Balance:** 효율적인 연구 시간 관리와 개인 시간을 존중합니다.
+* ** Conferences:** 국내외 학술대회 참가를 적극 지원하여 다양한 연구 경험을 제공합니다.
+* ** Events:** 정기적인 랩 세미나, 홈커밍데이, 워크숍 등을 통해 구성원 간의 유대감을 다집니다.
 
 ---
 
-## 🎓 Alumni
+## Alumni
 
 저희 연구실 졸업생들은 반도체, 배터리, 제약/바이오 등 다양한 분야의 핵심 인재로 활약하고 있습니다.
 
