@@ -1,4 +1,5 @@
 ---
+layout: CV
 - title: General Information
   type: map
   contents:
