@@ -1,6 +1,15 @@
 <!doctype html>
 <html lang="{{ site.lang }}">
   <!-- Head -->
+<style>
+  /* 화면 너비가 1200px 이상인 경우(대부분의 노트북/PC)에만 적용 */
+  @media (min-width: 1200px) {
+    .container {
+      /* 원래 1140px 정도인 너비를 1400px까지 늘림 */
+      max-width: 1400px !important; 
+    }
+  }
+</style>
   <head>
     {% if page.redirect %}
       {% if page.redirect == true %}
