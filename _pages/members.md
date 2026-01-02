@@ -5,20 +5,6 @@ title: Members
 nav: true
 nav_order: 3
 ---
-
-## Principal Investigator
-
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <img src="../assets/img/jaemin.jpg" width="180px" style="border-radius: 10px; margin-right: 20px; border: 1px solid #ddd;">
-  <div>
-    <h3><b>오제민 (Jae-Min Oh)</b></h3>
-    <p>Professor</p>
-    <p>Dept. of Energy & Materials Engineering</p>
-    <p>📧 jmoh.nbml@gmail.com</p>
-    <a href="/cv/">[View CV]</a>
-  </div>
-</div>
----
 ---
 ## Post Doctoral Researcher
 
