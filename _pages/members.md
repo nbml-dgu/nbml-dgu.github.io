@@ -77,7 +77,7 @@ nav_order: 3
   <b>김효인 (Hyoin Kim)</b>
   <a href="mailto:hyoin7442@naver.com">📧 Email</a> hyoin7442@naver.com
   ---
----
+  ---
 ## Mascot
 <div style="display: inline-block; width: 200px; text-align: center; margin: 15px; vertical-align: top;">
   <img src="../assets/img/typhoon.jpg" width="150px" height="150px" style="object-fit: cover; border-radius: 50%; border: 1px solid #eee;">
