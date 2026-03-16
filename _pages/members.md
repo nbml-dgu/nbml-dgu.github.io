@@ -59,7 +59,7 @@ nav_order: 3
   <br>
   <b>정인혜 (Inhye Jeong)</b>
   <br>
-  <a href="mailto:">📧 Email</a> jinhye1234@naver.com
+  <a href="mailto:jinhye1234@naver.com">📧 Email</a> jinhye1234@naver.com
 </div>
 ---
 ---
