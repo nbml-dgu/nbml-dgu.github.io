@@ -76,7 +76,7 @@ nav_order: 3
   <br>
   <b>김효인 (Hyoin Kim)</b>
   <a href="mailto:hyoin7442@naver.com">📧 Email</a> hyoin7442@naver.com
- </div>
+</div>
   ---
   ---
 ## Mascot
