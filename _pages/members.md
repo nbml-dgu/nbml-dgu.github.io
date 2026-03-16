@@ -57,9 +57,9 @@ nav_order: 3
 <div style="display: inline-block; width: 200px; text-align: center; margin: 15px; vertical-align: top;">
   <img src="../assets/img/inhye.jpg" width="150px" height="150px" style="object-fit: cover; border-radius: 50%; border: 1px solid #eee;">
   <br>
-  <b>정인혜 (Inhye Jeong)</b> jinhye1234@naver.com
+  <b>정인혜 (Inhye Jeong)</b>
   <br>
-  <a href="mailto:">📧 Email</a> 
+  <a href="mailto:">📧 Email</a> jinhye1234@naver.com
 </div>
 ---
 ---
