@@ -57,8 +57,24 @@ nav_order: 3
 <div style="display: inline-block; width: 200px; text-align: center; margin: 15px; vertical-align: top;">
   <img src="../assets/img/inhye.jpg" width="150px" height="150px" style="object-fit: cover; border-radius: 50%; border: 1px solid #eee;">
   <br>
-  <b>정인혜 (Inhye Jeong)</b>
+  <b>정인혜 (Inhye Jeong)</b> jinhye1234@naver.com
   <br>
   <a href="mailto:">📧 Email</a> 
 </div>
 ---
+---
+## Undergraduate Students
+<div style="display: inline-block; width: 200px; text-align: center; margin: 15px; vertical-align: top;">
+  <img src="../assets/img/chanseo.jpg" width="150px" height="150px" style="object-fit: cover; border-radius: 50%; border: 1px solid #eee;">
+  <br>
+  <b>김찬서 (Chanseo Kim)</b>
+  <br>
+  <a href="mailto:kgyoon0206@naver.com">📧 Email</a>
+</div>
+<div style="display: inline-block; width: 200px; text-align: center; margin: 15px; vertical-align: top;">
+  <img src="../assets/img/hyoin.jpg" width="150px" height="150px" style="object-fit: cover; border-radius: 50%; border: 1px solid #eee;">
+  <br>
+  <b>김효인 (Hyoin Kim)</b>
+  <br>
+  <a href="mailto:jasonk214@naver.com">📧 Email</a>
+</div>
