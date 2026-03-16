@@ -69,7 +69,7 @@ nav_order: 3
   <br>
   <b>김찬서 (Chanseo Kim)</b>
   <br>
-  <a href="mailto:kgyoon0206@naver.com">📧 Email</a>
+  <a href="mailto:cskim0702@dgu.ac.kr">📧 Email</a> cskim0702@dgu.ac.kr
 </div>
 <div style="display: inline-block; width: 200px; text-align: center; margin: 15px; vertical-align: top;">
   <img src="../assets/img/hyoin.jpg" width="150px" height="150px" style="object-fit: cover; border-radius: 50%; border: 1px solid #eee;">
