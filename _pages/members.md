@@ -75,6 +75,12 @@ nav_order: 3
   <img src="../assets/img/hyoin.jpg" width="150px" height="150px" style="object-fit: cover; border-radius: 50%; border: 1px solid #eee;">
   <br>
   <b>김효인 (Hyoin Kim)</b>
+  ---
+---
+## Mascot
+<div style="display: inline-block; width: 200px; text-align: center; margin: 15px; vertical-align: top;">
+  <img src="../assets/img/typhoon.jpg" width="150px" height="150px" style="object-fit: cover; border-radius: 50%; border: 1px solid #eee;">
   <br>
+  <b>강태풍 (태풍이)</b>
   <a href="mailto:jasonk214@naver.com">📧 Email</a>
 </div>
