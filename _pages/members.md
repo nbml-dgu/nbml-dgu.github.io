@@ -75,6 +75,7 @@ nav_order: 3
   <img src="../assets/img/hyoin.jpg" width="150px" height="150px" style="object-fit: cover; border-radius: 50%; border: 1px solid #eee;">
   <br>
   <b>김효인 (Hyoin Kim)</b>
+  <a href="mailto:hyoin7442@naver.com">📧 Email</a> hyoin7442@naver.com
   ---
 ---
 ## Mascot
